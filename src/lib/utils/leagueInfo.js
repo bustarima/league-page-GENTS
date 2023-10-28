@@ -25,7 +25,7 @@ export const managers = [
     {
       "managerID": "858166322658426880",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Marcus Johannes",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Shakopee, MN", // (optional)
       "bio": "Official League Villain. League Champ 1x - 2021. Strong Seed.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -47,7 +47,7 @@ export const managers = [
     {
       "managerID": "858152844484780032,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Steve Shadduck",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Bloomington, MN", // (optional)
       "bio": "Facts over Feels, League Champ 1x - 2022. Has opinions.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -69,7 +69,7 @@ export const managers = [
     {
       "managerID": "858153452860215296",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Seth Rima",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Greater Seattle", // (optional)
       "bio": "Oft-maligned league historian. League Champ 1x - 2018. Christine Michael Apologist",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -91,7 +91,7 @@ export const managers = [
     {
       "managerID": "739187231977324544",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Dave Berggren",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Chanhassen, MN", // (optional)
       "bio": "Exiled Commissioner. League Champ 2x - 2013, 2020",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -113,7 +113,7 @@ export const managers = [
     {
       "managerID": "728719431311716352",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Rob Willette",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis Park, MN", // (optional)
       "bio": "Dynasty FF guru. League Champ 1x - 2019",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -157,7 +157,7 @@ export const managers = [
     {
       "managerID": "858215889655427072",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Ryan Romano",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Springdale, AR", // (optional)
       "bio": "Never met a team he didn't like. Until the Gophers.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
